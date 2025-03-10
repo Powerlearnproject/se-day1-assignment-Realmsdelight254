@@ -60,6 +60,7 @@ ii) Integration Testing: Verifies the interaction between multiple components to
 iii) System Testing: The entire system is tested as a whole to ensure all components interact properly and meet the requirements. It ensures the overall functionality of the application.
 iv) Acceptance Testing: Done to ensure that the software meets the client’s business requirements and is ready for deployment. This is typically done by end-users or QA teams before final approval.
 
+
 #Part 2: Introduction to AI and Prompt Engineering
 
 1. Define prompt engineering and discuss its importance in interacting with AI models.
